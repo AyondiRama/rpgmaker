@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"pakblangkon","characterIndex":0,"characterName":"pakblangkon","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"pakblangkon","traits":[],"initialLevel":1,"maxLevel":99,"name":"PAK BLANGKON","nickname":"PAK BLANGKON","note":"","profile":"PAK BLANGKON ADALAH PENDUDUK DESA INI"},
+{"id":2,"battlerName":"anakmudah1","characterIndex":0,"characterName":"anakmudah1","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"anakmudah1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Adhinatha","nickname":"Adhinatha","note":"","profile":"Adhinatha Anak Paling Unggul"},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]

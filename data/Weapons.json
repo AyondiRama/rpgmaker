@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"animationId":6,"description":"Patrem adalah suatu senjata tradisional Yogyakarta yang memiliki bentuk seperti keris tetapi dengan ukuran yang lebih kecil. Pada zaman dahulu, senjata ini digunakan oleh para pejuang wanita dengan menyelipkannya di pinggang. Dengan begitu, senjata patrem merupakan salah satu senjata yang memiliki peran sangat besar dalam perjuangan melawan kolonial Hindia Belanda.\n\nBahan dasar pembuatan patrem yakni baja yang dicampur dengan berbagai bahan pilihan. Ukuran senjata tradisional Jogja ini hanya sekitar sekilan (20-25 cm). Ukuran tersebut merupakan hal yang sangat mendasari perbedaan dengan senjata lainnya yaitu keris.\n\nPersamaan antara patrem dengan keris ","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Sword","note":"","params":[0,0,10,0,0,0,0,-10],"price":0,"wtypeId":2},
+{"id":2,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"Axe","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":4},
+{"id":3,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Cane","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":6},
+{"id":4,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Bow","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":7}
+]
